@@ -1,1 +1,1 @@
-# go-journey
+# go-for-fun
